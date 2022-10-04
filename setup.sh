@@ -1,0 +1,1 @@
+source ~/Documents/emsdk/emsdk_env.sh # change this location according to your system
